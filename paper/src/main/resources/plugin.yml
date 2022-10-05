@@ -1,0 +1,6 @@
+name: ${name}
+main: com.github.longboyy.odin.Odin
+author: [Longboyy, TTastic]
+version: ${version}
+depend: [CivModCore, CrazyAdvancementAPI]
+api-version: 1.17
